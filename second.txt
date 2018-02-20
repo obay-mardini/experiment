@@ -1,5 +1,1 @@
-<<<<<<< 01c6d11a363919a1cd790b96124668163b3a3c77
-hi second update in master
-=======
-hi second 
->>>>>>> update second in branch 6
+hi second  fix change request
